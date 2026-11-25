@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://metro-license-server.onrender.com/:path*"
+    }
+  ]
+}
